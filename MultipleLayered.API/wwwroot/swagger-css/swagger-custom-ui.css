@@ -1,0 +1,270 @@
+﻿/* Genel stil ayarları */
+body {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+}
+
+/* Üst çubuk stil ayarları */
+.swagger-ui .topbar {
+    background-color: #1e1e1e !important;
+}
+
+/* Authorize Modal Stil Ayarları */
+.swagger-ui .dialog-ux .modal-ux {
+    background: #2e2e2e !important;
+    border: 1px solid #555 !important;
+}
+
+.swagger-ui .dialog-ux .modal-ux-header {
+    background: #1e1e1e !important;
+    color: #ffffff !important;
+}
+
+.swagger-ui .dialog-ux .modal-ux-content {
+    background: #2e2e2e !important;
+    color: #ffffff !important;
+}
+
+.swagger-ui .auth-container {
+    background: #2e2e2e !important;
+    color: #ffffff !important;
+}
+
+    .swagger-ui .auth-container h4,
+    .swagger-ui .auth-container h2,
+    .swagger-ui .auth-container h3,
+    .swagger-ui .auth-container p,
+    .swagger-ui .auth-container label {
+        color: #ffffff !important;
+    }
+
+/* Authorize Button Stil */
+.swagger-ui .btn.authorize {
+    background-color: #4caf50 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+    .swagger-ui .btn.authorize svg {
+        fill: #ffffff !important;
+    }
+
+/* Modal Close Button */
+.swagger-ui .dialog-ux .modal-ux-header .close-modal {
+    background: #555 !important;
+}
+
+/* Auth Input Fields */
+.swagger-ui .auth-container input {
+    background-color: #3e3e3e !important;
+    color: #ffffff !important;
+    border: 1px solid #555 !important;
+}
+
+/* Auth Scheme Labels */
+.swagger-ui .auth-container .wrapper {
+    background: #3e3e3e !important;
+    border: 1px solid #555 !important;
+}
+
+/* Modal Buttons */
+.swagger-ui .dialog-ux .modal-ux-content .btn {
+    background-color: #4caf50 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+.swagger-ui .dialog-ux .modal-ux-content .btn-done {
+    background-color: #2196f3 !important;
+}
+
+.swagger-ui .dialog-ux .modal-ux-content .btn-cancel {
+    background-color: #f44336 !important;
+}
+
+/* Bilgi bölümü stil ayarları */
+.swagger-ui .info {
+    background-color: #2e2e2e !important;
+}
+
+    .swagger-ui .info .title,
+    .swagger-ui .info p,
+    .swagger-ui .info a {
+        color: #ffffff !important;
+    }
+
+/* Operasyon blokları stil ayarları */
+.swagger-ui .opblock .opblock-summary-method {
+    color: #ffffff !important;
+}
+
+.swagger-ui .opblock .opblock-summary {
+    background-color: #3e3e3e !important;
+    border: 1px solid #555 !important;
+}
+
+.swagger-ui .opblock .opblock-summary-description {
+    color: #ffffff !important;
+}
+
+/* Yanıt sütunu stil ayarları */
+.swagger-ui .response-col_status {
+    color: #ffffff !important;
+}
+
+.swagger-ui .response-col_description {
+    color: #ffffff !important;
+}
+
+.swagger-ui .opblock .opblock-body pre {
+    background-color: #3e3e3e !important;
+    color: #ffffff !important;
+}
+
+/* Girdi alanları ve seçim kutuları stil ayarları */
+.swagger-ui input[type="text"],
+.swagger-ui select {
+    background-color: #3e3e3e !important;
+    color: #ffffff !important;
+    border: 1px solid #555 !important;
+}
+
+/* Buton stil ayarları */
+.swagger-ui .btn {
+    background-color: #555 !important;
+    color: #ffffff !important;
+    border: 1px solid #777 !important;
+}
+
+    .swagger-ui .btn:hover {
+        background-color: #777 !important;
+        border: 1px solid #999 !important;
+    }
+
+/* Tablo stil ayarları */
+.swagger-ui table {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+}
+
+    .swagger-ui table td,
+    .swagger-ui table th {
+        border: 1px solid #555 !important;
+    }
+
+/* Kod blokları stil ayarları */
+.swagger-ui pre {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+}
+
+/* Genel yazı rengi ayarları */
+.swagger-ui * {
+    color: #ffffff !important;
+}
+
+/* Başlık stil ayarları */
+.swagger-ui .title {
+    color: #ffffff !important;
+}
+
+/* Yanıt kutusu stil ayarları */
+.swagger-ui .responses-inner {
+    background-color: #2e2e2e !important;
+    border: 1px solid #555 !important;
+}
+
+/* Yanıt mesajları stil ayarları */
+.swagger-ui .response .response-col_description__inner {
+    background-color: #3e3e3e !important;
+    border: 1px solid #555 !important;
+}
+
+/* Parametre başlıkları stil ayarları */
+.swagger-ui .parameters-col_description {
+    color: #ffffff !important;
+}
+
+/* Uyarı mesajları stil ayarları */
+.swagger-ui .errors .message {
+    background-color: #3e3e3e !important;
+    color: #ffaaaa !important;
+    border: 1px solid #ff5555 !important;
+}
+
+/* JSON metin alanı stil ayarları */
+.swagger-ui .body-param__text {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+    border: 1px solid #555 !important;
+}
+
+/* Yanıt gövdesi stil ayarları */
+.swagger-ui .response-col_description pre {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+    border: 1px solid #555 !important;
+}
+
+/* Açılır menü stil ayarları */
+.swagger-ui select {
+    background-color: #3e3e3e !important;
+    color: #ffffff !important;
+    border: 1px solid #555 !important;
+}
+
+/* Link stil ayarları */
+.swagger-ui a {
+    color: #4caf50 !important;
+}
+
+    .swagger-ui a:hover {
+        color: #81c784 !important;
+    }
+
+/* Scheme seçimi stil ayarları */
+.swagger-ui .scheme-container {
+    background-color: #2e2e2e !important;
+    box-shadow: none !important;
+}
+
+/* Model stil ayarları */
+.swagger-ui .model {
+    color: #ffffff !important;
+}
+
+.swagger-ui .model-title {
+    background-color: #3e3e3e !important;
+    color: #ffffff !important;
+}
+
+/* Model özellikler stil ayarları */
+.swagger-ui .property {
+    color: #ffffff !important;
+}
+
+/* Response headers stil ayarları */
+.swagger-ui .response-col_headers {
+    color: #ffffff !important;
+}
+
+/* Try it out buton stil ayarları */
+.swagger-ui .try-out__btn {
+    background-color: #4caf50 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+/* Execute buton stil ayarları */
+.swagger-ui .execute-wrapper .btn {
+    background-color: #2196f3 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+/* Clear buton stil ayarları */
+.swagger-ui .btn-clear {
+    background-color: #f44336 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
